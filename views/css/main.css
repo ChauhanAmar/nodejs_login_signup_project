@@ -1,0 +1,25 @@
+body{
+	text-align: center !important;
+	background-color: #97CEEE;
+
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+	
+}
+input{
+	text-align: center;
+	display: block;
+	margin-top: 5px;
+	padding: 12px;
+	border-radius: 5px;
+	outline: none;
+	color: #101010;
+	
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
